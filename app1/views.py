@@ -145,3 +145,7 @@ print(my_list)
 
 my_list.clear()
 print(my_list)
+
+my_list.remove('4')
+print(my_list)
+
